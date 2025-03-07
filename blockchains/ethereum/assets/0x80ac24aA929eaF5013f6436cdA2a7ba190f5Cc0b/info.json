@@ -1,0 +1,20 @@
+{
+    "name": "Syrup USDC",
+    "website": "https://syrup.fi/",
+    "description": "Maple is DeFi's Institutional Lender, and Syrup makes Maple’s consistent high yield available in DeFi.",
+    "explorer": "https://etherscan.io/token/0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b",
+    "type": "ERC20",
+    "symbol": "syrupUSDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/syrupfi"
+        }
+    ]
+}
